@@ -1,0 +1,14 @@
+/*********************************************************************/
+/*                     estilo para styledtext.html                   */
+/*                     autor: Manuel Festa                           */
+/*                     version: 1.0                                  */
+/*                     comentario: practicando css externo           */
+/*********************************************************************/
+/*selectores de etiqueta*/
+body {background-color: blueviolet;color: black;}
+h2 {color: indigo;}
+/*selector de id, único*/
+#encabezado_derecha {text-align: right;}
+/*selector de class, colectivo*/
+.centrado {text-align: center;}
+.centrado b {color: red;}
